@@ -6,8 +6,7 @@
 
 I have experience across **PwC, Amazon, and GE**, working on analytics, automation, and optimization initiatives involving structured data and business reporting.
 
-I work at the intersection of data, business, and technology, applying analytical methods to support data-driven decision-making.
-
+I work at the intersection of data, business, and technology, applying statistical analysis and machine learning techniques to support data-driven decision-making.
 ---
 
 ## Featured Projects  
